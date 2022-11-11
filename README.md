@@ -1,7 +1,8 @@
 # 💫 About Me:
-- Leading 4 teams with 20+ members working on different technologies like .NET, Java, ReactJS, Android, iOS and distributed geographically
+- Experience leading different teams working on different technologies like .NET, Java, ReactJS, Android, iOS and distributed geographically
 - Extensive experience in developing and reviewing the microservices, reviewing PCI/PII compliance and security and their hosting strategies in .NET and Java
 - Effectively communicates and interacts with infrastructure and supporting technology groups across a distributed environment to drive problem resolution and service levels.
+- Extensive experience in architecting and designing the API Gateways using Google apigee
 - Experience in deploying and managing the microservices using Docker and Kubernetes
 - Experience in working with ELK stack for analyzing logs, Rancher for orchestration, Jenkins for CI/CD, JFrog for artifacts and GitLab for source repository
 - Having extensive experience working with business teams, product owners in terms of deliveries of the product along with KPIs
