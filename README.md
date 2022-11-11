@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Experience leading different teams working on different technologies like .NET, Java, ReactJS, Android, iOS and distributed geographically
+- Experience leading multiple teams in parallel where the teams are working on different technologies like .NET, Java, ReactJS, Android, iOS and distributed geographically
 - Extensive experience in developing and reviewing the microservices, reviewing PCI/PII compliance and security and their hosting strategies in .NET and Java
 - Effectively communicates and interacts with infrastructure and supporting technology groups across a distributed environment to drive problem resolution and service levels.
 - Extensive experience in architecting and designing the API Gateways using Google apigee
